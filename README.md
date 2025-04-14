@@ -1,3 +1,4 @@
+```
  ______________________________________
 / Hey! I'm Sonia.                      \
 \ Welcome to my coding space           /
@@ -7,7 +8,7 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
+```
 
 <!--
 [![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=s-fereidooni)](https://github.com/s-fereidooni/github-readme-stats)
